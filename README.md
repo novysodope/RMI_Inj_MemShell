@@ -24,7 +24,9 @@ java -jar Log4j2Memory-0.1.jar
 # 工具说明：
 暂时只有三种类型可供选择：filter、Servlet、listener
 
-目前暂时只支持注入部分springboot/MVC、tomcat的内存马（基于tomcat8-10）
+目前暂时只支持注入部分基于tomcat8-10环境的内存马（部分springboot等）
+
+
 
 后续会持续更新内存马
 
