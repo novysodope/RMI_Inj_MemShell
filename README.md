@@ -43,6 +43,22 @@ java -jar Log4j2Memory-0.1.jar
 
 内存马来自项目：https://github.com/ce-automne/TomcatMemShell
 
+# 2022/07/18 0.1.1版本更新：
+1.增加冰蝎内存马
+2.改掉几个bug
+界面：
+![3378d89947e69d4909c595bf848c833](https://user-images.githubusercontent.com/45167857/179510427-04cbc1e3-5409-428b-9495-469407fc18d3.png)
+
+## 冰蝎内存马演示：
+漏洞环境：springboot+Log4j
+冰蝎版本：Behinder_v3.0_Beta_11.t00ls
+### servlet：
+<img width="529" alt="5003a275c0325608c12f5c4f352de27" src="https://user-images.githubusercontent.com/45167857/179509893-3598309a-aeda-4d4b-878f-94936e7f88a4.png">
+
+### filter：
+![66842c51bb6703956c98b11d6da423c](https://user-images.githubusercontent.com/45167857/179509977-60938a98-ba17-4376-bccc-5e73539352af.png)
+
+
 # 法律
 ```bash
 本工具仅能在取得足够合法授权的企业安全建设中使用在使用,
