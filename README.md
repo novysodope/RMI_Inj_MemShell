@@ -24,7 +24,7 @@ java -jar Log4j2Memory-0.1.jar
 # 工具说明：
 暂时只有三种类型可供选择：filter、Servlet、listener
 
-目前暂时只支持注入部分基于tomcat8-10环境的内存马（部分springboot等）
+目前暂时只支持注入部分基于tomcat7-8-10环境的内存马（部分springboot等）
 
 
 
@@ -45,12 +45,16 @@ java -jar Log4j2Memory-0.1.jar
 
 # 2022/07/18 0.1.1版本更新：
 1.增加冰蝎内存马
+
 2.改掉几个bug
+
 界面：
+
 ![3378d89947e69d4909c595bf848c833](https://user-images.githubusercontent.com/45167857/179510427-04cbc1e3-5409-428b-9495-469407fc18d3.png)
 
 ## 冰蝎内存马演示：
 漏洞环境：springboot+Log4j
+
 冰蝎版本：Behinder_v3.0_Beta_11.t00ls
 ### servlet：
 <img width="529" alt="5003a275c0325608c12f5c4f352de27" src="https://user-images.githubusercontent.com/45167857/179509893-3598309a-aeda-4d4b-878f-94936e7f88a4.png">
