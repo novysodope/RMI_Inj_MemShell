@@ -9,13 +9,18 @@
 
 2.增加BypassNginxCDN websocket内存马
 
-3.优化使用，减少复杂的步骤
+3.优化使用和其他地方，该版本只有一个jar包，直接启动RMI_Inj_MemShell.jar根据提示使用就好了
 
 内存马项目来自：星火实验室 https://github.com/veo/wsMemShell
 
 界面：
 
 ![image](https://user-images.githubusercontent.com/45167857/210964163-0cb1e68b-f666-4dd2-af12-a2b2daf8b9d6.png)
+
+websocket内存马演示：
+
+![54905ae1f2ef7447bf555a78535d27b](https://user-images.githubusercontent.com/45167857/210964322-176379ae-10ee-4568-b2c0-4d3483fb6c6f.png)
+
 
 
 ----------------分界线-----------------
